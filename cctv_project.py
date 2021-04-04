@@ -64,7 +64,7 @@ while True:
       push = pb.push_link("Click here to check CCTV " ,"https://mail.google.com/mail/u/0/?ogbl#inbox")
       counter = counter + 1
 
-      ## CCTV VIDEO  ##
+      # CCTV VIDEO  #
       #camera.start_preview()
       #camera.start_recording('/home/pi/video%s.h264' % counter)
       #time.sleep(5)
